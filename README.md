@@ -3,6 +3,9 @@
 LTspiceのメニュー・ダイアログボックスを日本語化します。
 LTspiceのバージョンは26.1.1専用です。
 
+<img width="867" height="623" alt="aa" src="https://github.com/user-attachments/assets/57747141-fb34-4c2b-823e-97dfa9feb6d8" />
+
+
 ## 【使い方】
 LTspice 26.1.1をインストールしたフォルダにパッチを置いて実行してください。
 LTspice.exeが書き換えられ、古いファイルはLTspice.OLDとして保存されます。
